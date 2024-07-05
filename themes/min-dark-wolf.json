@@ -156,7 +156,7 @@
         "string.other.link.title.markdown"
       ],
       "settings": {
-        "foreground": "#79b8ff"
+        "foreground": "#F8F8F8"
       }
     },
     {
@@ -191,9 +191,9 @@
       }
     },
     {
-      "scope": "variable.parameter.function",
+      "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#FF9800"
+        "foreground": "#79b8ff"
       }
     },
     {
