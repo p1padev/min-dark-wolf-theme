@@ -1,31 +1,30 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/misolori/min-theme/master/icon.png" width="140" />
+# Min Dark Wolf Theme
 
-# Min Theme
+A fork from Min Theme that switches original shades of grey and purple to higher-contrast shades of white / lavender cream.
 
-A minimal theme for VS Code that comes in dark and light.
-
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
-
-![preview-dark](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-dark.png)
-
-![preview-light](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-light.png)
+![preview-dark](https://raw.githubusercontent.com/p1padev/min-dark-wolf-theme/master/screenshot.png)
 
 </div>
 
 ## Installation
 
-1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
-2. Go to `File > Preferences > Color Theme`
-3. Select `Min Dark` or `Min Light`
+1. Download the `min-dark-wolf-theme-1.0.0.vsix` package
+2. Go to the Extensions view.
+3. Click Views and More Actions...
+4. Select Install from VSIX...
 
 Alternatively install via CLI:
+
 ```
-code --install-extension miguelsolorio.min-theme
+code --install-extension min-dark-wolf-theme-1.0.0.vsix
 ```
+
+## Attribution
+
+This project is based on [Min Theme](https://github.com/miguelsolorio/min-theme) originally created by [Miguel Solorio](https://github.com/miguelsolorio).
 
 ## License
 
-[MIT License](LICENSE) 
-
+This project is licensed under the same [MIT License](LICENSE) from the original project.
