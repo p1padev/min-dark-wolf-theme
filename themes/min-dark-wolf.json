@@ -156,7 +156,7 @@
         "string.other.link.title.markdown"
       ],
       "settings": {
-        "foreground": "#F8F8F8"
+        "foreground": "#79B8FF"
       }
     },
     {
@@ -172,7 +172,7 @@
         "support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#f8f8f8"
+        "foreground": "#79B8FF"
       }
     },
     {
@@ -290,6 +290,5 @@
         "foreground": "#79b8ff"
       }
     }
-  ],
-  "semanticHighlighting": true
+  ]
 }

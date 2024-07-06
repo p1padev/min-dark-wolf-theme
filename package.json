@@ -2,7 +2,7 @@
   "name": "min-dark-wolf-theme",
   "displayName": "Min Dark Wolf Theme",
   "description": "A fork from Min Theme that switches shades of grey/blue to higher-contrast shades of white",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "p1padev",
   "repository": {
     "type": "git",
